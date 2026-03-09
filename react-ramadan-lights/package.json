@@ -5,6 +5,15 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faragbuograra/ramadan.git",
+    "directory": "react-ramadan-lights"
+  },
+  "bugs": {
+    "url": "https://github.com/faragbuograra/ramadan/issues"
+  },
+  "homepage": "https://github.com/faragbuograra/ramadan/tree/main/react-ramadan-lights#readme",
   "files": [
     "dist"
   ],
