@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import { RamadanLights } from 'react-ramadan-lights'
 
 function App() {
