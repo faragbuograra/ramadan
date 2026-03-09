@@ -1,6 +1,6 @@
 {
   "name": "react-ramadan-lights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A performance-optimized, canvas-based React component for floating Ramadan-themed particles (moons, stars, lanterns)",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
